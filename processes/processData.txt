@@ -1,0 +1,500 @@
+Frenchmen Street, 2.9 mi, 8 mins
+Gayoso Street, 8.6 mi, 14 mins
+Gentilly Boulevard, 2.4 mi, 6 mins
+Girod Street, 6.5 mi, 18 mins
+Gravier Street, 6.0 mi, 13 mins
+Canal Boulevard, 3.3 mi, 8 mins
+Canal Street, 1,300 mi, 19 hours 14 mins
+Carondelet Street, 7.8 mi, 18 mins
+Carrollton Avenue, 8.3 mi, 15 mins
+Chartres Street, 5.1 mi, 14 mins
+St. Ann Street, 5.0 mi, 11 mins
+St. Charles Avenue, 8.4 mi, 19 mins
+St. Claude Avenue, 7.2 mi, 18 mins
+St. Louis Street, 681 mi, 9 hours 50 mins
+St. Peter Street, 5.3 mi, 13 mins
+Conti Dr, 685 mi, 10 hours 0 mins
+Continental Dr, 1,521 mi, 21 hours 43 mins
+Convention St, 80.5 mi, 1 hour 18 mins
+Conway Dr, 476 mi, 6 hours 48 mins
+Conwood Ave, 89.6 mi, 1 hour 33 mins
+Buena Vista Dr, 644 mi, 9 hours 5 mins
+Buhler Dr, 10.1 mi, 16 mins
+Bull Run Dr, 1,053 mi, 15 hours 24 mins
+Bungalow Ln, 359 mi, 5 hours 23 mins
+Bunker Hill Dr, 721 mi, 10 hours 31 mins
+Audubon Place, 29.3 mi, 34 mins
+Baronne Street, 7.3 mi, 16 mins
+Basin Street, 5.2 mi, 12 mins
+Bayou Road, 94.1 mi, 1 hour 33 mins
+Bienville Street, 4.9 mi, 15 mins
+Martin Luther King Jr. Boulevard, 1,118 mi, 16 hours 23 mins
+McAlister Place, 794 mi, 11 hours 34 mins
+Napoleon Avenue, 8.0 mi, 18 mins
+Oak Street, 877 mi, 12 hours 46 mins
+Oretha Castle Haley Boulevard, 7.0 mi, 15 mins
+Bronco Ave, 653 mi, 9 hours 25 mins
+Bronzebush Ave, 76.8 mi, 1 hour 17 mins
+Brook Spring Ave, 76.6 mi, 1 hour 20 mins
+Brookcrest Ave, 75.8 mi, 1 hour 20 mins
+Brookfield Ave, 1,120 mi, 16 hours 32 mins
+Brentwood Dr, 430 mi, 6 hours 26 mins
+Brentwood Dr, 430 mi, 6 hours 26 mins
+Breton Blvd, 82.6 mi, 1 hour 19 mins
+Breton Dr, 488 mi, 6 hours 57 mins
+Bretshire Dr, 500 mi, 7 hours 18 mins
+Charleston Villa Dr, 75.7 mi, 1 hour 19 mins
+Charlestown Ln, 718 mi, 10 hours 22 mins
+Charlotte Dr, 708 mi, 10 hours 21 mins
+Charmaine Ave, 77.8 mi, 1 hour 17 mins
+Charter Pl: NOT FOUND
+Decatur Street, 4.9 mi, 15 mins
+Desire Street, 5.1 mi, 13 mins
+Dryades Street, 8.0 mi, 18 mins
+Dumaine Street, 5.2 mi, 12 mins
+Earhart Expressway, 10.9 mi, 19 mins
+Elysian Fields Avenue, 2.2 mi, 5 mins
+Esplanade Avenue, 4.5 mi, 12 mins
+Exchange Place, 1,298 mi, 19 hours 11 mins
+Felicity Street, 7.3 mi, 17 mins
+Freret Street, 8.1 mi, 19 mins
+Cork St, 1,019 mi, 14 hours 54 mins
+Cormorant St, 909 mi, 13 hours 20 mins
+Cornell Ave, 923 mi, 13 hours 23 mins
+Corporate Blvd, 78.3 mi, 1 hour 14 mins
+Cortana Pl, 81.9 mi, 1 hour 20 mins
+Colonel Gibson Cir, 82.4 mi, 1 hour 18 mins
+Colonial Dr, 631 mi, 8 hours 52 mins
+Colorado St, 1,360 mi, 20 hours 9 mins
+Columbus Dunn Dr, 81.6 mi, 1 hour 21 mins
+Comal Dr, 519 mi, 7 hours 36 mins
+Briarplace Dr, 72.3 mi, 1 hour 11 mins
+Briartrail Dr, 205 mi, 3 hours 7 mins
+Briarwood Pl: NOT FOUND
+Brice St, 705 mi, 10 hours 12 mins
+Bricksome Ave, 75.8 mi, 1 hour 16 mins
+Choctaw Dr, 685 mi, 10 hours 26 mins
+Chopin Dr, 647 mi, 9 hours 16 mins
+Chuck Yeager Ave, 88.0 mi, 1 hour 24 mins
+Churchill Ave, 2,158 mi, 1 day 8 hours
+Cicero Ave, 911 mi, 13 hours 5 mins
+Orleans Street, 1,119 mi, 16 hours 31 mins
+Pearl Street, 657 mi, 10 hours 9 mins
+Peters Street, 465 mi, 6 hours 38 mins
+Pontchartrain Expressway, 6.8 mi, 12 mins
+Poydras Street, 6.0 mi, 14 mins
+Prytania Street, 8.7 mi, 20 mins
+Rampart Street, 5.4 mi, 15 mins
+Robert E. Lee Boulevard, 1.0 mi, 3 mins
+Royal Street, 5.9 mi, 17 mins
+Simon Bolivar Avenue, 6.9 mi, 14 mins
+Brownlee St, 521 mi, 7 hours 35 mins
+Brownway Ln, 72.9 mi, 1 hour 13 mins
+Bruce Alley: NOT FOUND
+Brunswick Ave, 1,222 mi, 17 hours 57 mins
+Brutus Dr, 588 mi, 8 hours 59 mins
+Cold Harbour Ave, 75.1 mi, 1 hour 18 mins
+Cold Water Creek Ct, 841 mi, 12 hours 49 mins
+Cole Dr, 651 mi, 10 hours 5 mins
+Coliseum Ave, 1,538 mi, 22 hours 48 mins
+Colleen Ct: NOT FOUND
+Carolyn Sue Dr, 81.4 mi, 1 hour 19 mins
+Carondelet Ct, 332 mi, 5 hours 2 mins
+Carr Alley, 80.7 mi, 1 hour 17 mins
+Carriage Ct Dr, 74.1 mi, 1 hour 15 mins
+Carriage Way, 1,092 mi, 15 hours 53 mins
+Cherry St, 657 mi, 10 hours 8 mins
+Cherrydale Ave, 1,014 mi, 14 hours 52 mins
+Cherryl Dr, 85.8 mi, 1 hour 28 mins
+Cherrywood Dr, 1,222 mi, 18 hours 4 mins
+Chesapeake Ave, 1,056 mi, 15 hours 7 mins
+Julia Street, 6.4 mi, 14 mins
+Lafayette Street, 1,300 mi, 19 hours 18 mins
+Lakeshore Drive, 810 mi, 11 hours 40 mins
+Lee Circle, 7.1 mi, 14 mins
+Louisiana Avenue, 1,226 mi, 18 hours 1 min
+Booker St, 429 mi, 6 hours 49 mins
+Boone Ave, 1,314 mi, 19 hours 30 mins
+Bootsie Dr, 86.6 mi, 1 hour 25 mins
+Bordeaux Dr, 1,048 mi, 15 hours 10 mins
+Boreas Dr, 641 mi, 9 hours 3 mins
+Carnouste Dr, 548 mi, 8 hours 6 mins
+Carol Dr, 531 mi, 7 hours 44 mins
+Carol Marie Dr, 79.7 mi, 1 hour 16 mins
+Carolina St, 867 mi, 12 hours 32 mins
+Caroljack Dr, 76.4 mi, 1 hour 16 mins
+Bella Dr, 1,324 mi, 19 hours 28 mins
+Bellarbor Dr, 80.5 mi, 1 hour 18 mins
+Belle Angela Ave, 73.1 mi, 1 hour 13 mins
+Belle Brittany Ave, 73.1 mi, 1 hour 13 mins
+Belle Cherie Ave, 85.4 mi, 1 hour 25 mins
+St. Philip Street, 763 mi, 11 hours 5 mins
+Tchoupitoulas Street, 10.1 mi, 21 mins
+Toulouse Street, 57.3 mi, 1 hour 17 mins
+Barringer Foreman Rd, 70.2 mi, 1 hour 7 mins
+Barringer Rd, 1,401 mi, 20 hours 59 mins
+Brocato Ave, 509 mi, 7 hours 39 mins
+Brogdon Ln, 74.0 mi, 1 hour 14 mins
+Brogdon Ln, 74.0 mi, 1 hour 14 mins
+Broker Ave, 944 mi, 13 hours 38 mins
+Bromley Dr, 1,220 mi, 17 hours 58 mins
+Beauregard St, 1,081 mi, 15 hours 49 mins
+Beauverde Ct, 80.9 mi, 1 hour 19 mins
+Beckenham Dr, 437 mi, 7 hours 1 min
+Beckfield Ave, 71.9 mi, 1 hour 11 mins
+Becky Lee Dr, 83.6 mi, 1 hour 21 mins
+Ceba Ln, 81.3 mi, 1 hour 21 mins
+Cedar Ave, 1,025 mi, 15 hours 19 mins
+Cedar Bend Ave, 83.8 mi, 1 hour 26 mins
+Cedar Creek Dr, 1,027 mi, 14 hours 57 mins
+Cedar Glen Dr, 1,857 mi, 1 day 3 hours
+Barrosa Way, 81.6 mi, 1 hour 21 mins
+Barrow Dr, 591 mi, 9 hours 11 mins
+Barry Dr, 529 mi, 7 hours 45 mins
+Bartlett St, 409 mi, 5 hours 59 mins
+Baskins Cir, 518 mi, 7 hours 28 mins
+Cape Hart Ct, 71.0 mi, 1 hour 9 mins
+Cape Hatteras Dr, 624 mi, 8 hours 55 mins
+Capistra Dr, 90.3 mi, 1 hour 29 mins
+Capital Heights Ave, 79.5 mi, 1 hour 17 mins
+Capitol Access Rd, 82.2 mi, 1 hour 19 mins
+Cloverdale Ave, 1,899 mi, 1 day 3 hours
+Cloverhill Blvd, 70.3 mi, 1 hour 7 mins
+Cloverland Ave, 73.7 mi, 1 hour 11 mins
+Cloverland Ct, 194 mi, 2 hours 56 mins
+Cloverland Park Dr, 520 mi, 7 hours 28 mins
+Cook Dr, 440 mi, 6 hours 35 mins
+Coolidge St, 1,517 mi, 22 hours 34 mins
+Coot St, 643 mi, 9 hours 6 mins
+Copperfield Ct, 1,021 mi, 15 hours 12 mins
+Copperfield Dr, 368 mi, 5 hours 36 mins
+Charing Way Ave, 74.5 mi, 1 hour 16 mins
+Charington Ave, 80.9 mi, 1 hour 19 mins
+Chariot Dr, 500 mi, 7 hours 19 mins
+Charlene Dr, 871 mi, 12 hours 40 mins
+Charles St, 1,524 mi, 22 hours 41 mins
+Brookshire Ave, 1,892 mi, 1 day 3 hours
+Brookwood Dr, 476 mi, 6 hours 50 mins
+Broussard St, 79.4 mi, 1 hour 15 mins
+Brownfields Dr, 365 mi, 5 hours 27 mins
+Browning Dr, 695 mi, 10 hours 47 mins
+Casa Loma Dr, 83.0 mi, 1 hour 23 mins
+Cascades Ave, 1,280 mi, 18 hours 49 mins
+Cashel Ave, 82.5 mi, 1 hour 22 mins
+Casper St, 431 mi, 6 hours 55 mins
+Caspiana Ave, 84.5 mi, 1 hour 24 mins
+Centenary Dr, 80.9 mi, 1 hour 20 mins
+Centerpointe Dr, 681 mi, 10 hours 4 mins
+Centerway Blvd, 81.9 mi, 1 hour 20 mins
+Central Pine Dr, 716 mi, 11 hours 0 mins
+Central Rd, 946 mi, 13 hours 41 mins
+Copperleaf Dr, 1,247 mi, 18 hours 26 mins
+Copping Dr, 73.5 mi, 1 hour 18 mins
+Cora Dr, 81.0 mi, 1 hour 18 mins
+Coral Dr, 516 mi, 7 hours 42 mins
+Corinth St, 506 mi, 7 hours 23 mins
+Capitol Ave, 1,421 mi, 21 hours 3 mins
+Capitol Lake Dr, 464 mi, 6 hours 36 mins
+Capri Dr, 647 mi, 9 hours 6 mins
+Caprice Dr, 688 mi, 9 hours 57 mins
+Cardeza Ave, 1,284 mi, 18 hours 55 mins
+Central Woods Ave, 90.6 mi, 1 hour 32 mins
+Centurion Ave, 83.7 mi, 1 hour 20 mins
+Century Ave: NOT FOUND
+Cezanne Ave, 79.7 mi, 1 hour 22 mins
+Chablis Ave, 1,850 mi, 1 day 2 hours
+Chantilly Ave, 1,719 mi, 1 day 1 hour
+Chapel View Ct, 81.7 mi, 1 hour 20 mins
+Chapelwood Dr, 68.7 mi, 1 hour 5 mins
+Char-a-banc Ave, 74.0 mi, 1 hour 14 mins
+Chardonnay Ave, 2,549 mi, 1 day 14 hours
+Cedarcrest Ave, 76.1 mi, 1 hour 15 mins
+Cedardale Ave, 1,264 mi, 19 hours 0 mins
+Cedarlane Ave, 80.1 mi, 1 hour 16 mins
+Celestial Dr, 394 mi, 5 hours 43 mins
+Celtic Dr, 655 mi, 9 hours 22 mins
+Beachwood Dr, 1,898 mi, 1 day 3 hours
+Beaconwood Dr, 806 mi, 11 hours 41 mins
+Beau Darren Dr, 73.1 mi, 1 hour 13 mins
+Beaujolaes Ave, 73.3 mi, 1 hour 13 mins
+Beaumont Dr, 679 mi, 10 hours 30 mins
+Cinquefoil Ave, 80.2 mi, 1 hour 17 mins
+Citadel Dr, 1,890 mi, 1 day 3 hours
+Citiplace Ct, 78.6 mi, 1 hour 15 mins
+Citiplace Dr, 1,551 mi, 22 hours 59 mins
+Clairewood Ct, 616 mi, 8 hours 52 mins
+Championship Dr, 1,408 mi, 20 hours 10 mins
+Chancellorsville Ave, 75.6 mi, 1 hour 18 mins
+Chandler Dr, 546 mi, 7 hours 59 mins
+Chaney Dr, 403 mi, 5 hours 58 mins
+Chanticleer Ct, 1,341 mi, 20 hours 0 mins
+Brashears St, 1,119 mi, 16 hours 27 mins
+Breckenridge Ave, 638 mi, 9 hours 29 mins
+Breman Dr, 72.0 mi, 1 hour 10 mins
+Brent Ave, 1,196 mi, 17 hours 40 mins
+Brent Ct, 1,441 mi, 21 hours 23 mins
+Brookhaven Dr, 475 mi, 6 hours 50 mins
+Brooklawn Dr, 93.2 mi, 1 hour 29 mins
+Brookline Ave, 1,519 mi, 22 hours 36 mins
+Brookmeade Dr, 728 mi, 10 hours 37 mins
+Brooks Ave, 866 mi, 12 hours 32 mins
+Caesar Ave, 1,550 mi, 22 hours 56 mins
+Cain St, 341 mi, 4 hours 57 mins
+Cal Rd, 74.9 mi, 1 hour 12 mins
+Calanne Ave, 85.9 mi, 1 hour 26 mins
+Caldwell Ave, 526 mi, 7 hours 34 mins
+Bourbon Street, 5.6 mi, 16 mins
+Broad Street, 2,242 mi, 1 day 9 hours
+Burgundy Street, 5.5 mi, 15 mins
+Calliope Street, 8.4 mi, 14 mins
+Camp Street, 8.4 mi, 20 mins
+City Park Avenue, 4.3 mi, 10 mins
+Claiborne Avenue, 7.5 mi, 18 mins
+Conti Street, 4.7 mi, 14 mins
+Dante Street, 1,886 mi, 1 day 3 hours
+Dauphine Street, 4.7 mi, 15 mins
+Brame Dr, 79.4 mi, 1 hour 18 mins
+Branchwood Ave, 621 mi, 9 hours 37 mins
+Brandon Dr, 734 mi, 11 hours 28 mins
+Brandon Lynn Dr, 84.6 mi, 1 hour 23 mins
+Brandywine Dr, 1,093 mi, 16 hours 15 mins
+Brightview Ct, 1,389 mi, 20 hours 32 mins
+Brillock Ave, 87.6 mi, 1 hour 31 mins
+Bringhurst Ave, 85.3 mi, 1 hour 27 mins
+Brinwood Ave, 1,089 mi, 15 hours 57 mins
+Bristoe Ave, 83.3 mi, 1 hour 19 mins
+Brady St, 1,018 mi, 14 hours 45 mins
+Braeburn Dr, 1,073 mi, 15 hours 40 mins
+Braewood Ave, 1,286 mi, 19 hours 4 mins
+Brakley Dr, 75.7 mi, 1 hour 16 mins
+Bramble Dr, 1,216 mi, 18 hours 5 mins
+Camelio Ave, 1,517 mi, 22 hours 35 mins
+Camelot Ave, 253 mi, 3 hours 42 mins
+Cameo Ct, 1,207 mi, 17 hours 47 mins
+Cameron Ave, 1,522 mi, 22 hours 36 mins
+Cammy Ave, 80.9 mi, 1 hour 18 mins
+Campanile Ct, 73.6 mi, 1 hour 18 mins
+Campbell Dr, 661 mi, 10 hours 13 mins
+Camphor Dr, 647 mi, 9 hours 28 mins
+Campus Lake Rd, 81.2 mi, 1 hour 18 mins
+Canada St, 2,974 mi, 2 days 4 hours
+Bristol Ave, 1,271 mi, 18 hours 47 mins
+Britain Ave, 1,418 mi, 21 hours 3 mins
+Brittany Dr, 76.1 mi, 1 hour 14 mins
+Brittmore Ave, 1,224 mi, 17 hours 55 mins
+Broad Magnolia Ct, 73.0 mi, 1 hour 17 mins
+Boyce Dr, 582 mi, 8 hours 26 mins
+Boyd Ave, 1,575 mi, 23 hours 7 mins
+Boylan Ave, 869 mi, 12 hours 38 mins
+Bozeman Ave, 1,990 mi, 1 day 5 hours
+Bracewell Dr, 664 mi, 9 hours 18 mins
+Baytree Dr, 365 mi, 5 hours 44 mins
+Baywood Ave, 1,115 mi, 16 hours 30 mins
+Bazaar Ave, 1,310 mi, 19 hours 32 mins
+Bea Dr, 2,119 mi, 1 day 7 hours
+Beachwood Ave, 612 mi, 9 hours 27 mins
+Chablis Ct, 1,833 mi, 1 day 2 hours
+Chairman Ave, 71.9 mi, 1 hour 11 mins
+Chalice Dr, 381 mi, 5 hours 34 mins
+Chalma Ave, 83.3 mi, 1 hour 24 mins
+Chalmers St, 1,233 mi, 18 hours 14 mins
+Clinton Ave, 1,310 mi, 19 hours 29 mins
+Cloud Dr, 1,237 mi, 18 hours 5 mins
+Cloudland Dr, 476 mi, 6 hours 46 mins
+Clover Dr, 686 mi, 9 hours 59 mins
+Clover Ridge Ave, 802 mi, 11 hours 33 mins
+Bassett Dr, 679 mi, 10 hours 5 mins
+Batavia Ave, 953 mi, 13 hours 47 mins
+Bateman Cir, 964 mi, 13 hours 59 mins
+Baton Rouge Ave, 85.3 mi, 1 hour 20 mins
+Baton Rouge Ct, 1,057 mi, 15 hours 26 mins
+Belle Christi Dr, 73.0 mi, 1 hour 12 mins
+Belle Famille Ave, 73.0 mi, 1 hour 12 mins
+Bonnie Dr, 1,249 mi, 18 hours 25 mins
+Bonnie Jean Dr, 83.7 mi, 1 hour 22 mins
+Bontura Ct, 577 mi, 8 hours 39 mins
+Bryans Crossing Ave, 72.1 mi, 1 hour 10 mins
+Bryant Dr, 288 mi, 4 hours 10 mins
+Buckeye Dr, 1,549 mi, 22 hours 7 mins
+Buckingham Ave, 1,283 mi, 18 hours 50 mins
+Buckley Ave, 1,518 mi, 22 hours 41 mins
+Castile Ave, 864 mi, 12 hours 14 mins
+Castille Rd, 72.5 mi, 1 hour 11 mins
+Castle Hill Dr, 1,314 mi, 19 hours 32 mins
+Castle Kirk Dr, 77.7 mi, 1 hour 17 mins
+Castle Ridge St, 552 mi, 8 hours 7 mins
+Canal St, 1,300 mi, 19 hours 15 mins
+Candace St, 1,486 mi, 22 hours 10 mins
+Candlewood Ave, 1,990 mi, 1 day 5 hours
+Canebrake Dr, 751 mi, 10 hours 52 mins
+Cannon St, 1,358 mi, 20 hours 8 mins
+Carrington Pl Ave, 74.3 mi, 1 hour 15 mins
+Carrollton Ave, 8.3 mi, 15 mins
+Carter Ave, 2,230 mi, 1 day 8 hours
+Carver St, 844 mi, 12 hours 12 mins
+Casa Grande Dr, 379 mi, 5 hours 40 mins
+Brickyard Ln, 1,514 mi, 22 hours 25 mins
+Brierwood Dr, 966 mi, 14 hours 4 mins
+Brighton Ave, 1,517 mi, 22 hours 31 mins
+Brightside Dr, 80.5 mi, 1 hour 24 mins
+Brightside View Dr, 80.1 mi, 1 hour 24 mins
+Clear Oak Ave, 89.3 mi, 1 hour 30 mins
+Clematis Dr: NOT FOUND
+Cleo Ct, 1,949 mi, 1 day 5 hours
+Cletus Dr, 82.9 mi, 1 hour 24 mins
+Clifton Dr, 635 mi, 9 hours 48 mins
+Chasefield Ave, 71.8 mi, 1 hour 11 mins
+Chatawa Dr, 83.5 mi, 1 hour 22 mins
+Chateau Ct, 1,356 mi, 20 hours 6 mins
+Chateau Dr, 1,817 mi, 1 day 2 hours
+Chatfield Ave, 1,293 mi, 19 hours 9 mins
+Bawell St, 78.4 mi, 1 hour 14 mins
+Bay Ridge Ct, 2,611 mi, 1 day 14 hours
+Bay St, 2,265 mi, 1 day 9 hours
+Bayberry Ave, 844 mi, 12 hours 10 mins
+Baylor Dr, 524 mi, 7 hours 41 mins
+Claybrook Dr, 515 mi, 7 hours 37 mins
+Claycut Rd, 80.0 mi, 1 hour 16 mins
+Clayton Ct, 780 mi, 10 hours 58 mins
+Clayton Dr, 887 mi, 12 hours 31 mins
+Clear Lake Ave, 2,235 mi, 1 day 8 hours
+Boston St, 1,121 mi, 16 hours 27 mins
+Bourbon Ave, 697 mi, 9 hours 59 mins
+Bourgeois St, 190 mi, 2 hours 53 mins
+Bowie Ave, 1,117 mi, 16 hours 24 mins
+Bowman Ave, 1,337 mi, 19 hours 40 mins
+Canonicus St, 1,505 mi, 22 hours 23 mins
+Canosa Ct, 1,295 mi, 19 hours 11 mins
+Canterbury Dr, 567 mi, 8 hours 30 mins
+Canterdale Ave, 74.7 mi, 1 hour 17 mins
+Canyonland Dr, 83.9 mi, 1 hour 26 mins
+Cedar Park Ave, 1,238 mi, 18 hours 10 mins
+Cedar Pointe Ave, 1,038 mi, 15 hours 4 mins
+Cedar Ridge Ave, 1,356 mi, 20 hours 15 mins
+Cedar Way, 2,623 mi, 1 day 15 hours
+Cedarbrook Ave, 676 mi, 10 hours 20 mins
+College Dr, 1,361 mi, 20 hours 12 mins
+College Hill Dr, 944 mi, 13 hours 26 mins
+Collegiate Ct, 1,431 mi, 21 hours 21 mins
+Collins Dr, 617 mi, 9 hours 32 mins
+Colonel Allen Ct, 82.7 mi, 1 hour 19 mins
+Henry Clay Avenue, 9.6 mi, 23 mins
+Howard Avenue, 1,311 mi, 19 hours 42 mins
+Iberville Street, 4.8 mi, 13 mins
+Jackson Avenue, 1,329 mi, 19 hours 52 mins
+Jeff Davis Parkway, 8.1 mi, 13 mins
+Baynard St, 628 mi, 9 hours 23 mins
+Bayou Dr, 316 mi, 4 hours 44 mins
+Bayou Fountain Ave, 75.9 mi, 1 hour 17 mins
+Bayridge Dr, 1,440 mi, 21 hours 15 mins
+Bayside Ave, 1,096 mi, 16 hours 12 mins
+Cathedral Dr, 1,078 mi, 15 hours 36 mins
+Catherine St, 652 mi, 10 hours 4 mins
+Catiline Pl, 83.9 mi, 1 hour 21 mins
+Cato St, 660 mi, 10 hours 12 mins
+Cavalier Dr, 467 mi, 6 hours 40 mins
+Braddock St, 1,019 mi, 14 hours 54 mins
+Braden Patrick Dr, 75.9 mi, 1 hour 19 mins
+Bradfield Ave, 1,893 mi, 1 day 3 hours
+Bradley St, 1,388 mi, 20 hours 31 mins
+Bradmore Dr, 1,005 mi, 14 hours 35 mins
+Lowerline Street, 9.4 mi, 20 mins
+Loyola Avenue, 6.2 mi, 15 mins
+Magazine Street, 8.8 mi, 21 mins
+Magnolia Street, 734 mi, 10 hours 25 mins
+Marengo Street, 1,890 mi, 1 day 3 hours
+Cabernet Dr, 2,276 mi, 1 day 9 hours
+Cable St, 1,232 mi, 17 hours 54 mins
+Cabot Ave, 1,181 mi, 17 hours 24 mins
+Caddo St, 326 mi, 4 hours 50 mins
+Cadillac St, 575 mi, 8 hours 8 mins
+Coates Crossing, 72.9 mi, 1 hour 16 mins
+Cobblestone Ct, 1,398 mi, 20 hours 42 mins
+Cocodrie Ave, 72.5 mi, 1 hour 14 mins
+Cody Dr, 1,014 mi, 15 hours 10 mins
+Coffee Rd, 2,159 mi, 1 day 8 hours
+Cambridge St, 1,517 mi, 22 hours 36 mins
+Camden St, 475 mi, 6 hours 47 mins
+Camelia Ave, 1,517 mi, 22 hours 35 mins
+Camelia Trace Dr, 588 mi, 8 hours 38 mins
+Camelia Way Ct, 76.8 mi, 1 hour 17 mins
+Brett Pl, 1,907 mi, 1 day 3 hours
+Brewster Ave, 2,254 mi, 1 day 9 hours
+Brianna Ave, 1,909 mi, 1 day 3 hours
+Briar Hollow Ave, 74.3 mi, 1 hour 13 mins
+Briarlake Ave, 72.6 mi, 1 hour 13 mins
+Cardiff Ave, 1,901 mi, 1 day 3 hours
+Cardigan Ave, 715 mi, 10 hours 24 mins
+Cardinal St, 682 mi, 9 hours 51 mins
+Carl Ave, 1,072 mi, 15 hours 31 mins
+Carlene Ave, 773 mi, 10 hours 58 mins
+Bel Air Dr, 2,262 mi, 1 day 9 hours
+Bel Meadow Ave, 70.5 mi, 1 hour 8 mins
+Belcaro Dr, 730 mi, 10 hours 41 mins
+Beldart Ct, 353 mi, 5 hours 19 mins
+Belfast Dr, 1,903 mi, 1 day 4 hours
+Broadmoor Ave, 912 mi, 13 hours 12 mins
+Broadmoor Cir, 1,038 mi, 15 hours 6 mins
+Broadmoor Ct, 1,390 mi, 20 hours 35 mins
+Broadway St, 1,315 mi, 19 hours 27 mins
+Brocade Dr, 2,242 mi, 1 day 9 hours
+Cortez Dr, 363 mi, 5 hours 28 mins
+Costello Ln, 767 mi, 10 hours 48 mins
+Cottage Dr, 1,084 mi, 15 hours 43 mins
+Cottage Hill Dr, 2,272 mi, 1 day 9 hours
+Cottage Row Dr, 206 mi, 3 hours 16 mins
+Bedford Dr, 1,908 mi, 1 day 4 hours
+Beech Harbor Ave, 77.3 mi, 1 hour 23 mins
+Beech St, 728 mi, 11 hours 20 mins
+Beechgrove Dr, 1,301 mi, 19 hours 16 mins
+Beechwood Dr, 1,031 mi, 14 hours 59 mins
+Chesterfield Dr, 1,830 mi, 1 day 2 hours
+Chestnut Dr, 503 mi, 7 hours 14 mins
+Chestnut Oak Dr, 632 mi, 9 hours 22 mins
+Chestnut St, 1,216 mi, 17 hours 59 mins
+Chevalier Ave, 1,539 mi, 22 hours 52 mins
+Cedar Grove Dr, 1,058 mi, 15 hours 17 mins
+Cedar Key Ave, 1,738 mi, 1 day 1 hour
+Cedar Lake Dr, 906 mi, 13 hours 16 mins
+Cedar Line Dr, 74.9 mi, 1 hour 17 mins
+Cedar Lodge Dr, 79.2 mi, 1 hour 17 mins
+Chatsworth St, 1,920 mi, 1 day 3 hours
+Chattanooga Dr, 1,843 mi, 1 day 2 hours
+Chaucer Dr, 2,276 mi, 1 day 9 hours
+Chelsea Dr, 673 mi, 10 hours 23 mins
+Chelwood Ave, 82.2 mi, 1 hour 17 mins
+Chevelle Ct, 2,474 mi, 1 day 12 hours
+Chevelle Dr, 77.7 mi, 1 hour 16 mins
+Cheyenne Dr, 1,398 mi, 20 hours 39 mins
+Chickamauga Ave, 597 mi, 8 hours 39 mins
+Chimneywood Ave, 81.9 mi, 1 hour 17 mins
+Carleton Dr, 1,560 mi, 23 hours 2 mins
+Carlotta St, 1,887 mi, 1 day 3 hours
+Carlsbad Dr, 1,840 mi, 1 day 2 hours
+Carmen Dr, 1,098 mi, 16 hours 0 mins
+Carnifix Ct, 75.7 mi, 1 hour 19 mins
+Clairmont Ave, 342 mi, 5 hours 0 mins
+Clara Dr, 2,244 mi, 1 day 9 hours
+Claret Ave, 2,041 mi, 1 day 6 hours
+Classique Dr, 80.8 mi, 1 hour 18 mins
+Claus Cir, 2,287 mi, 1 day 9 hours
+Chenango Dr, 1,334 mi, 19 hours 52 mins
+Chene Ave, 83.3 mi, 1 hour 24 mins
+Cherokee St, 675 mi, 9 hours 47 mins
+Cherry Hill Ave, 909 mi, 13 hours 7 mins
+Cherry Oak Dr, 663 mi, 9 hours 34 mins
+Chinn St, 2,321 mi, 1 day 9 hours
+Chippendale Dr, 2,236 mi, 1 day 9 hours
+Chippenham Dr, 997 mi, 14 hours 27 mins
+Chippewa St, 674 mi, 9 hours 49 mins
+Chisholm Ave, 1,914 mi, 1 day 3 hours
+California St, 2,274 mi, 1 day 9 hours
+Calion Dr, 89.2 mi, 1 hour 28 mins
+Callahan St, 459 mi, 7 hours 0 mins
+Calumet St, 674 mi, 9 hours 46 mins
+Calverton Dr, 1,092 mi, 16 hours 3 mins
+Castlebury Dr, 984 mi, 14 hours 17 mins
+Castlewood Dr, 745 mi, 10 hours 48 mins
+Catalina Ave, 1,906 mi, 1 day 4 hours
+Catalpa St, 2,261 mi, 1 day 9 hours
+Cate Ave, 592 mi, 8 hours 37 mins
