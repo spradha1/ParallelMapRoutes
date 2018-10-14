@@ -15,7 +15,7 @@ class myThread(threading.Thread):
         get_routes(self.spots)
 
 def get_routes(spots):
-    gmaps = googlemaps.Client(key='AIzaSyBQ6W3-fmXqMq3-llcbdiWKz-Ty0Ld9dIc')
+    gmaps = googlemaps.Client(key='YOUR_API_KEY')
     now = datetime.now()
     for i in range(0, len(spots)):
         try:
