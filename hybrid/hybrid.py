@@ -4,6 +4,7 @@ import sys
 from locationspy import *
 import threading
 from multiprocessing import Process
+import time
 
 class myThread(threading.Thread):
     def __init__(self, threadID, name, spots):
@@ -42,6 +43,8 @@ if __name__ == '__main__' :
     jobs = []
     extras = cases%n
 
+    begin = time.time()
+
     for prcs in range(0, n):
         start = prcs*divvy + prcs
         if prcs > extras:
@@ -57,4 +60,11 @@ if __name__ == '__main__' :
         else:
             name = "Thread #" + str(prcs) 
             thread1 = myThread(prcs, name, locations[start:end])
+            jobs.append(thread1)
             thread1.start()
+    
+    for j in jobs:
+        j.join()
+
+    end = time.time()
+    print 'Time: ' + str(end-begin) + ' seconds'

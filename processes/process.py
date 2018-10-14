@@ -3,6 +3,7 @@ from datetime import datetime
 import sys
 from multiprocessing import Process
 from locationspy import *
+import time
 
 def get_routes(spots):
     gmaps = googlemaps.Client(key='AIzaSyBQ6W3-fmXqMq3-llcbdiWKz-Ty0Ld9dIc')
@@ -32,6 +33,8 @@ if __name__ == '__main__' :
     extras = cases%n
     jobs = []
 
+    begin = time.time()
+
     for prcs in range(0, n):
         start = prcs*divvy + prcs
         if prcs > extras:
@@ -43,6 +46,9 @@ if __name__ == '__main__' :
         p = Process(target=get_routes, args=(locations[start:end],))
         jobs.append(p)
         p.start()
-    
+
     for j in jobs:
         j.join()
+
+    end = time.time()
+    print 'Time: ' + str(end-begin) + ' seconds'

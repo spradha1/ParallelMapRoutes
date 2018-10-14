@@ -3,6 +3,7 @@ from datetime import datetime
 import sys
 from locationspy import *
 import threading
+import time
 
 class myThread(threading.Thread):
     def __init__(self, threadID, name, spots):
@@ -22,9 +23,9 @@ def get_routes(spots):
                                                 spots[i],
                                                 mode="driving",
                                                 departure_time=now)
-            f.write(spots[i] + ', ' + directions_result[0]['legs'][0]['distance']['text'] + ', ' + directions_result[0]['legs'][0]['duration']['text'] + '\n')
+            print spots[i] + ', ' + directions_result[0]['legs'][0]['distance']['text'] + ', ' + directions_result[0]['legs'][0]['duration']['text']
         except:
-            f.write(spots[i] + ': NOT FOUND\n')
+            print spots[i] + ': NOT FOUND'
 
 if __name__ == '__main__' :
     if len(sys.argv) < 2:
@@ -39,7 +40,10 @@ if __name__ == '__main__' :
     cases = len(locations)
     divvy = cases/n
     extras = cases%n
-    f = open('threadData.txt', 'w')
+    jobs = []
+    # f = open('threadData.txt', 'w')
+
+    begin = time.time()
 
     for prcs in range(0, n):
         start = prcs*divvy + prcs
@@ -51,4 +55,11 @@ if __name__ == '__main__' :
 
         name = "Thread #" + str(prcs) 
         thread1 = myThread(prcs, name, locations[start:end])
+        jobs.append(thread1)
         thread1.start()
+    
+    for j in jobs:
+        j.join()
+        
+    end = time.time()
+    print 'Time: ' + str(end-begin) + ' seconds'
