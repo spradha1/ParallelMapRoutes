@@ -14,18 +14,19 @@ function initMap() {
     var map = new google.maps.Map(document.getElementById('map'), mapOptions);
     directionsDisplay.setMap(map);
     var request = {
-        origin: 'New Orleans, LA',
-        destination: 'Almonaster Avenue',
-        travelMode: 'DRIVING',
+        origin: from_to[0][0],
+        destination: from_to[0][1],
+        travelMode: 'TRANSIT',
         provideRouteAlternatives: false,
-        drivingOptions: {
-            departureTime: new Date('October 3, 2018 09:00:00'),
-            trafficModel: 'pessimistic'
-        },
-        // transitOptions: {
-        //     modes: ['BUS'],
-        //     routingPreference: 'FEWER_TRANSFERS'
+        // drivingOptions: {
+        //     departureTime: new Date('October 3, 2018 09:00:00'),
+        //     trafficModel: 'pessimistic'
         // },
+        transitOptions: {
+            departureTime: new Date('November 7, 2018 05:30:00'),
+            modes: ['BUS'],
+            routingPreference: 'FEWER_TRANSFERS'
+        },
         unitSystem: google.maps.UnitSystem.IMPERIAL
     };
     nextLocation(request);
@@ -42,12 +43,12 @@ function nextLocation(request) {
             }
             if (status == 'OK') {
                 var data = result["routes"][0].legs[0];
-                output += locations[c] + ", " + data["distance"].text + ", " + data["duration"].text + "\n";
+                output += data["distance"].text + " " + data["duration"].text + "\n";
                 directionsDisplay.setDirections(result);
                 console.log(result);
             }
         
-            if (c == locations.length) {
+            if (c == from_to.length) {
                 reject();
             }
 
@@ -56,12 +57,14 @@ function nextLocation(request) {
             }, 455);
         })
     }).then(function (request) {
-        request["destination"] = locations[c++];
+        request["origin"] = from_to[c][0];
+        request["destination"] = from_to[c][1];
+        c++;
         return nextLocation(request);
     })
     .catch(function() {
         download("data.txt", output, 'text/plain');
-        console.log("Output: " + output);
+        console.log(output);
     });
 }
 
