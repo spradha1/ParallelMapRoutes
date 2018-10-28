@@ -12,3 +12,6 @@ The programs in folders hybrid, threads and processes have the respective python
 `python <program_name.py> <no. of processe/threads>`  
    
 And, do not forget to put your Google API Key in there!
+
+## Miscellaneous goal
+These programs were also used to get the distances and durations between stops for public transit for systems MTA (NY), TheBus (Honolulu) & RTA (New Orleans), and compare their performances among them. Thata data is on the the '.txt' files in terms of miles and minutes.

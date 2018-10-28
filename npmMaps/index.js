@@ -9,9 +9,11 @@ function initMap() {
     directionsDisplay = new google.maps.DirectionsRenderer();
     var mapOptions = {
         center: {lat: 30, lng: -90},
-        zoom: 6
+        zoom: 6,
+        heading: 180
     }
     var map = new google.maps.Map(document.getElementById('map'), mapOptions);
+    map.setMapTypeId('roadmap');
     directionsDisplay.setMap(map);
     var request = {
         origin: from_to[0][0],
