@@ -10,7 +10,9 @@
   "author": "Sanjiv Pradhanang",
   "license": "MIT",
   "dependencies": {
+    "braces": "^3.0.2",
     "file-system": "^2.2.2",
+    "morgan": "^1.9.1",
     "node-fetch": "^2.2.0"
   },
   "devDependencies": {
